@@ -1,0 +1,20 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body
+{
+    border-top:10px solid blue;
+    font-family: sans-serif;
+    background-color:hotpink;
+
+}
+.container
+{
+    width:50%;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:aquamarine;
+}
