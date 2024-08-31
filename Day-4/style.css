@@ -6,15 +6,16 @@
 }
 body
 {
-    border-top:10px solid blue;
+    border-top:50px solid orange;
     font-family: sans-serif;
-    background-color:hotpink;
-
+    background-color:aliceblue;
+     border-bottom:50px solid green;
 }
 .container
 {
-    width:50%;
+    width:40%;
     margin-right:auto;
     margin-left:auto;
-    background-color:aquamarine;
+    background-color:navy;
+    border-radius:50px;
 }
