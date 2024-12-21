@@ -14,24 +14,24 @@
     <h3 >list of labs</h3>
     <ol>
         <li>English lab</li>
-        <li>workshop lab</li>
-        <li>chemistry lab</li>
-        <li>cprogramming lab</li>
+        <li>Workshop lab</li>
+        <li>Chemistry lab</li>
+        <li>Cprogramming lab</li>
     </ol>
     <h2>Second sem subjects</h3>
     <h3>list of available courses</h3>
     <ul>
         <li>Datastructures</li>
         <li>Engineering physics</li>
-        <li>linear algebra and vector calculus</li>
+        <li>Linear algebra and vector calculus</li>
         <li>Engineering graphics</li>
         <li>Basic electrical and electronics engineering</li>
     </ul>
     <h3>list of labs</h3>
     <ol>
-        <li>physics lab</li>
-        <li>Eee lab</li>
-        <li>ds lab</li>
+        <li>Physics lab</li>
+        <li>EEE lab</li>
+        <li>Ds lab</li>
         <li>IT lab</li>
     </ol>
     <h2>Third sem subjects</h2>
@@ -46,11 +46,11 @@
     </ul>
     <h3>list of labs</h3>
     <ol>
-        <li>opps lab</li>
-        <li>python lab</li>
+        <li>Opps lab</li>
+        <li>Python lab</li>
         <li>Ads lab</li>
     </ol>
-    <h2>Now we entering to 4th sem </h2>
+    <h2>Now we entered to 4th sem </h2>
   
 </body>
 
