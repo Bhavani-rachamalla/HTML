@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>Bid</th>
+            <td>1250</td>
+            <td>1970</td>
+        </tr>
+        <tr>
+            <th>BookName</th>
+            <td>python</td>
+            <td>Java</td>
+        </tr>
+        <tr>
+            <th rowspan="2">Bookdetails</th>
+            <td>Author:Edision</td> 
+            <td>Author:Thomas</td>   
+        </tr>
+        <tr>
+            <td>publisher:Babu</td>
+            <td>publisher:Ekhalavya</td>
+        </tr>
+        <tr>
+            <th>Bookcost</th>
+            <td>500</td>
+            <td>300</td>
+        </tr>
+    </table>
+</body>
+</html>
